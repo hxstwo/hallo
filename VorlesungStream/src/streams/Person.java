@@ -8,5 +8,4 @@ public class Person {
 		this.name = name;
 		this.alter = alter;
 	}
-
 }

@@ -3,7 +3,7 @@ package streams;
 public class Streams {
 
 	public Streams() {
-		// TODO Auto-generated constructor stub
+		Person peter = new Person("Peter", 45);
 	}
 
 	public static void main(String[] args) {
